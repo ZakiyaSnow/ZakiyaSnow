@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZakiyaSnow
-- 👀 I’m interested all I need to know to change my career  
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning frontend development fundamentals @ Udacity
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me @ zakiya.moore226@gmail.com
