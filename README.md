@@ -64,12 +64,4 @@ Thanks for visiting!
 "Always learning. Always securing."
 
 
-## 🤝 Let's Connect
-I'm open to collaboration, mentorship, and entry-level opportunities in cybersecurity. Feel free to explore my repositories and follow along as I grow in this field.
-
----
-
-Thanks for visiting!
-
-> "Always learning. Always securing."
 
